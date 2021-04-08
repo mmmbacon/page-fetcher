@@ -1,0 +1,24 @@
+{
+  "name": "page-fetcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fetch.js",
+  "scripts": {
+    "start": "node fetch.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmmbacon/page-fetcher.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmmbacon/page-fetcher/issues"
+  },
+  "homepage": "https://github.com/mmmbacon/page-fetcher#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "request": "^2.88.2"
+  }
+}
